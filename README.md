@@ -1,2 +1,2 @@
 # personal-website 
-- HTML and Javascript
+- HTML, CSS, Bootstrap and Javascript
