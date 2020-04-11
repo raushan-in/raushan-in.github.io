@@ -1,6 +1,6 @@
 /* =================================
 ------------------------------------
-	Civic - CV Resume
+	Raushan - CV Resume
 	Version: 1.0
  ------------------------------------ 
  ====================================*/
@@ -15,7 +15,7 @@ $(window).on('load', function() {
 		Preloder
 	--------------------*/
 	$(".loader").fadeOut(); 
-	$("#preloder").delay(400).fadeOut("slow");
+	$("#preloder").delay(100).fadeOut("slow");
 
 });
 
