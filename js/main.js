@@ -144,5 +144,10 @@ if($().circleProgress){
 	});
 }
 
+// updating year of experience 
+var d = new Date();
+var current_year = parseInt(d.getFullYear());
+$("#eoy").html(`${current_year - 2016}`)
+
 })(jQuery);
 
